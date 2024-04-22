@@ -150,13 +150,15 @@ main {
 
 /* Resume related styles */
 
-/* .resume-container {
+.resume-container {
   display: flex;
-} */
+  gap: 75px;
+}
 .resume-column-title {
   color: #474747;
   font-size: 30px;
   font-weight: 700;
+  margin-bottom: 10px;
 }
 .resume-item-title {
   color: #474747;
@@ -167,9 +169,16 @@ main {
   color: #757575;
   font-size: 20px;
   font-weight: 600;
+  margin-bottom: 20px;
+  margin-top: 0px;
 }
 .resume-item-description {
   color: #757575;
   font-size: 16px;
   font-weight: 400;
+}
+
+.download-cv {
+  text-align: center;
+  margin-top: 50px;
 }
