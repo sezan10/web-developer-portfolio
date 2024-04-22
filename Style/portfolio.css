@@ -194,6 +194,9 @@ footer {
 .footer-coloum {
   width: 50%;
 }
+.social-links a {
+  margin-right: 25px;
+}
 .contact input[type="text"],
 .contact input[type="email"],
 textarea {
@@ -208,4 +211,3 @@ textarea {
   border: 0;
   width: 100%;
 }
-.contact input;
